@@ -107,5 +107,31 @@ h3{
 
 .nota{
     width: 300px;
-    
+}
+
+.inf3{
+    margin: 70px;
+    margin-left: 100px;
+}
+
+.artista{
+    width: 300px;
+}
+
+.cont2{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 600px;
+    background-image: url(../img/contenido2.png);
+}
+
+.desc{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.desc_tittle{
+    display: block;
 }
