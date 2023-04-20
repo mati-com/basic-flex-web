@@ -94,3 +94,18 @@ h1{
 .person{
     width: 300px;
 }
+
+h3{
+    text-align: center;   
+}
+
+.inf2{
+    margin: 70px;
+    margin-left: 100px;
+    justify-content: center;
+}
+
+.nota{
+    width: 300px;
+    
+}
